@@ -1,2 +1,2 @@
 # Rover
-Creating a Bluetooth app Controlled Rover for my Youtube Channel
+Creating a Bluetooth app controlled rover for my Youtube Channel. 
